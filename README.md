@@ -25,7 +25,7 @@ _If you run into any issues, or have questions please feel free to contact me!_
 
 ## Technologies Used
 
-_Used HTML, CSS, JavaScript, Node.Js for the server, and maybe React/MongoDb/MySQL_
+_Used HTML, CSS, JavaScript, Node.Js for the server, and maybe React/MongoDb/MySQL. For the gradient image background I used https://uigradients.com/#Summer_
 
 ### License
 
