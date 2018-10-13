@@ -2,15 +2,14 @@ h1 {
   text-align: center;
 }
 
-.deal-card {
-  display: inline;
-}
-
 p {
   display: inline;
   margin: 10px;
 }
 
+.deal-card {
+  display: inline;
+}
 
 table {
     font-family: arial, sans-serif;
